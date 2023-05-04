@@ -1,0 +1,55 @@
+.{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	background-color: #901390;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+	font-family: 'Lora', serif;
+}
+.logo p{
+	color: white;
+	position: relative;
+	top: -5px;
+}
+.Search{
+	background-color: white;
+	padding: 8px;
+	width: 420px;
+	height: 20px;
+	margin: 0px 15px;
+	display: flex;
+	justify-content: space-between;
+	box-shadow: -7px -7px 10px rgba(0, 0, 0,0.1),
+	7px 7px 10px rgba(0, 0, 0,0.1);
+	border-radius: 2px;
+}
+.Search input{
+	width: 380px;
+	border: none;
+	outline: none;
+	font-size: 14px;
+}
+.loginbtn{
+	padding: 7px 40px;
+	font-size: 16px;
+	font-weight: 550;
+	border: none;
+	outline: none;
+}
+.Navlink{
+	margin: 0px 20px;
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+}
+.angledown{
+	font-size: 10px;
+}
+.class{
+	margin: 0px 20px;
+	font-size: 18px;
+}
