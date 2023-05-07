@@ -1,0 +1,9 @@
+p{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(192, 124, 255);
+}
+.btn{
+    display: block;
+    margin: 8px;
+}
